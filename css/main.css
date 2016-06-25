@@ -1,0 +1,144 @@
+/*kevo*/
+nav .group {
+    padding-top: 70px;
+    margin-top: 40px;
+    
+}
+.h1{
+    color: silver;
+    font-family: cursive
+    font-style:italic;
+    
+}
+.offers p{
+    color:black;
+}
+.part1{
+    float:left;
+    width: 250px;
+    color:silver;
+    
+}
+.part2{
+    float: left;
+    width: 340px;
+    
+}
+h6{
+    font-size: 15px;
+    line-height: 5px;
+}
+
+label{
+    line-height: 5px
+}
+
+.offers{
+	text-align:center;
+}
+
+.h1{
+	font-size:20px;
+	font-weight:bold
+}
+
+.offers p{
+	font-style:italic;
+	}
+
+.sec1{
+    color:black;
+	float:left;
+	width:100%;
+    align: center;
+	}
+	
+.offer1{
+    padding-left: 20px;
+	float:left;
+	width:30%;
+        text-align: center;
+}
+
+.offer2{
+    padding-left: 20px;
+	float:left;
+	width:30%;
+        text-align: center;
+}
+
+.offer3{
+    padding-left: 20px;
+	float:left;
+	width:30%;
+        text-align: center;
+}
+
+.sec2{
+	clear:both;
+	float:left;
+	width:100%;
+}
+
+.offer4{
+	float:left;
+	width:47%
+}
+
+.offer5{
+	float:left;
+	width:47%
+}
+
+footer{
+	clear:both
+}
+
+/*kevo*/
+.first{
+   background-color: black;
+   text-align: center;
+   height: 200px;
+   letter-spacing: 1px;
+   text-transform: capitalize
+
+
+}
+.second{
+   background-color: black;
+    
+}
+body{
+ background-color: white;
+ color: black;
+ width: auto;
+ margin: 40px;
+ 
+ 
+}
+.third{
+    background-color: black;
+    text-align: center;
+    height: 150px;
+    
+}
+.social{
+    
+}
+.logo{
+    float: left;
+    padding-bottom: 40px;
+    padding-top: 60px;
+    margin: 5px;
+
+}
+
+.group{
+    float: right;
+    margin-right: 5px;
+
+}
+.fourth{
+    float: right;
+    margin: 5px;    
+}
